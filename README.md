@@ -11,6 +11,7 @@
 - [CCF2019-基于OCR的身份证识别（三）印章去除](https://zhuanlan.zhihu.com/p/97653046)
 - [CCF2019-基于OCR的身份证识别（四）文字定位](https://zhuanlan.zhihu.com/p/97911341)
 - [CCF2019-基于OCR的身份证识别（五）要素分析](https://zhuanlan.zhihu.com/p/97980343)
+- 持续更新
 
 代码分享列表：
 
