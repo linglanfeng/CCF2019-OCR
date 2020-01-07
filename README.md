@@ -23,8 +23,8 @@
 - 地址纠错（暂未上传）
 
 数据集列表（data有百度网盘共享地址）：
-- 训练集（决赛）- Train2_DataSet.zip train_Labels2.csv test2_dataset.zip
-- 测试集（初赛) - train_data.zip Train_Labels.csv test.zip
+- 数据集（决赛）- Train2_DataSet.zip train_Labels2.csv test2_dataset.zip
+- 数据集（初赛) - train_data.zip Train_Labels.csv test.zip
 - 国家统计局5级地址库 - 国家统计局_5级地址（2017_2018)_data.rar
 
 以上分享都会有对应的知乎分享，帮助复现结果。
